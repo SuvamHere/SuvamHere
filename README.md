@@ -20,16 +20,19 @@
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### 🎮 THE LAST OPTION
 ⚡ 24-Hour Game Jam Project (CAMPFIRE-BUTWAL)
-
-👉 https://oaris.itch.io/thelastoption
-
 - Built in **just 24 hours**
 - Developed using **Godot**
 - Focused on **decision-based gameplay**
+👉 https://oaris.itch.io/thelastoption
+
+
+- Built a **NFC based Hacker Card** for the project of blueprint
+- Built **multiple key rings**
+- Doing **RESOULTION**
 
 ---
 
@@ -45,23 +48,24 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SuvamHere&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuvamHere&theme=radical" />
 </p>
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 Robotics Event @ IIT Patna (Best Robo Design)
-- 🎮 Game Jam Participant (24 hrs build)
-- 💡 Passionate about problem solving & coding
+- Robotics Event @ IIT Patna (Best Robo Design)
+- Game Jam Participant (24 hrs build)
+- Conducted robotics event
+- Went to natinal hackathon
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/SuvamHere">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
   </a>
 </p>
