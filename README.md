@@ -38,8 +38,9 @@
 
 ## 🛠️ Tech Stack
 
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,github,git,linux" />
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,react,linux,git,ubuntu,godot" />
 </p>
 
 ---
