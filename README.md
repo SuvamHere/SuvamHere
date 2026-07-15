@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suvam Pathak</h1>
-<h3 align="center">🚀 Future Software Developer | Python Enthusiast | Game Dev</h3>
+<h3 align="center">🚀 Robotics | Hardware & Software | Game Dev</h3>
 <div align="center">
   <img  src="https://github.com/vaxad/vaxad/blob/main/grid-snake.svg"
        alt="yoinked from github.com/vaxad" /></a>
@@ -12,10 +12,10 @@
 <!--border line-->
 ## 🧠 About Me
 
-- 🎓 Grade 11 Student from Nepal  
+- 🎓 Grade 12 Student from Nepal  
 - 💻 Learning **Python & Software Development**  
 - 🎮 Built games using **Godot**  
-- 🌍 Dream: Study abroad   
+- 🌍 Dream: Somehow survive properly
 - ⚡ Love building cool projects & experimenting  
 
 ---
